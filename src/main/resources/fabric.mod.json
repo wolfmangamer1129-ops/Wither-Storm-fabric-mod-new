@@ -1,0 +1,6 @@
+{
+ "schemaVersion":1,"id":"stormboss","version":"${version}","name":"Storm Boss — Original Prototype",
+ "description":"Original evolving storm encounter using a vanilla Wither as the boss body.",
+ "environment":"*","entrypoints":{"main":["com.example.storm.StormMod"]},
+ "depends":{"fabricloader":"*","minecraft":"26.3","fabric-api":"*","java":">=21"}
+}
